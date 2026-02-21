@@ -12,16 +12,9 @@
     </div>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=jimin-ni&show_icons=true&theme=radical&hide_border=true" alt="jimin-ni's GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" alt="jimin-ni's Top Langs" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" alt="jimin-ni's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimin-ni&theme=radical" alt="jimin-ni's GitHub stats" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=jimin-ni&theme=radical" alt="jimin-ni's Top Langs" />
-  
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" alt="jimin-ni's GitHub Streak" />
 </p>
     <div style="text-align: left;">
