@@ -11,8 +11,14 @@
 	</div> 
     </div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jimin-ni&show_icons=true&theme=radical)
-	
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimin-ni&show_icons=true&theme=radical&hide_border=true" alt="jimin-ni's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" alt="jimin-ni's Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" alt="jimin-ni's GitHub Streak" />
+</p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
