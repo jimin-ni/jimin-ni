@@ -12,12 +12,12 @@
     </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimin-ni&show_icons=true&theme=radical&hide_border=true" alt="jimin-ni's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" alt="jimin-ni's Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" alt="jimin-ni's GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api?username=jimin-ni&show_icons=true&theme=radical&hide_border=true" alt="jimin-ni's GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" alt="jimin-ni's Top Langs" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" alt="jimin-ni's GitHub Streak" />
+	![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimin-ni&theme=radical)
+	![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=jimin-ni&theme=radical)
+	![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical)
 </p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
