@@ -38,19 +38,13 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
       <h3 style="color: #3B456C;">VCS</h3>
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
           <img src="https://img.shields.io/badge/Unity%20Hub-222C37?style=for-the-badge&logo=Unity&logoColor=white">
       </div>
 </div> <br>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> 🧑‍💻 Contact me </h2> 
-
-    </div>
-</div> </br>
 
 <h1 style="border-bottom: 1px solid #d8dee4; color: #3954C2;">🤝 &nbsp;Let's Connect!</h1>
 <div style="color: #3B456C;">
