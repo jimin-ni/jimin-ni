@@ -10,12 +10,12 @@
 		<li>Interests: UX/UI Design · HCI ·Web Development</li> 
 	</div> 
     </div>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimin-ni&theme=radical" alt="jimin-ni's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimin-ni&theme=radical" height="170" alt="Stats" />
   
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" alt="jimin-ni's GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Langs" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&theme=radical&hide_border=true" height="170" alt="Streak" />
 </p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
