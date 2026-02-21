@@ -3,8 +3,16 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi 👋, I'm Jimin Kim </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Philosophy: Coding with a user centric mindset, designing with data driven insights.</li></li>Vision: Viewing the world through the dual lenses of technology and design to build engaging and impactful products.</li></li>Education: Major in Computer Science & Second Major in Visual Design</li></li>Interests: UX/UI Design · HCI ·Web Development  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+		<li>Philosophy: Coding with a user centric mindset, designing with data driven insights.</li>
+		<li>Vision: Viewing the world through the dual lenses of technology and design to build engaging and impactful products.</li>
+		<li>Education: Major in Computer Science & Second Major in Visual Design</li>
+		<li>Interests: UX/UI Design · HCI ·Web Development</li> 
+	</div> 
     </div>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jimin-ni&show_icons=true&theme=radical)
+	
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
