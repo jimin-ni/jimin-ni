@@ -48,20 +48,22 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> 🧑‍💻 Contact me </h2> 
-    <div style="text-align: left;"> 
-      <a href=mailto:jimin326ww@gmail.com> 
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jimin326ww@gmail.com"> 
-      </a>
-      <a href=https://velog.io/@dung-dung/posts> 
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dung-dung/posts"> 
-      </a>
+
     </div>
 </div> </br>
 
 <h1 style="border-bottom: 1px solid #d8dee4; color: #3954C2;">🤝 &nbsp;Let's Connect!</h1>
 <div style="color: #3B456C;">
-  <h3>I'm always interested in discussing:</h3>
-  <p>- 💻 HCI 🧠</p>
-  <p>- 🌟 Better UX for Human</p>
-  <p>- ✨ Fascinating and Grounded UI</p>
+	<h3>I'm always interested in discussing:</h3>
+	<p>- 💻 HCI 🧠</p>
+	<p>- 🌟 Better UX for Human</p>
+	<p>- ✨ Fascinating and Grounded UI</p>
+	<div style="text-align: left;"> 
+		<a href=mailto:jimin326ww@gmail.com> 
+			<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jimin326ww@gmail.com"> 
+		</a>
+		<a href=https://velog.io/@dung-dung/posts> 
+			<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dung-dung/posts"> 
+		</a>
+	</div>
 </div>
