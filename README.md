@@ -4,12 +4,9 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> Hi👋, &nbsp;I'm Jimin Kim </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #272D46; line-height: 1.6;"> 
-      <p>A Developer and Designer majoring in <b>💫Computer Science</b> & <b>Visual Design💫</b>.</p>
-      
+      <p>A Developer and Designer majoring in <b>💫Computer Science</b> & <b>Visual Design💫</b>.</p>      
       <p>I develop with a user-centric mindset and design with data-driven insights, integrating technical logic with visual aesthetics.</p>
-
       <p><b>📍Vision:</b> Viewing the world through the dual lenses of technology and design to build engaging and impactful products.</p>
-
       <p><b>📍Interests:</b> UX/UI Design · HCI · Web Development</p> 
     </div> 
 </div> <br>
