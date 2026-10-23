@@ -12,8 +12,6 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
-      <h3 style="color: #3B456C;">UI/UX Design</h3>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
       <h3 style="color: #3B456C;">Lang</h3>
 		<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 		<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
@@ -35,7 +33,10 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
           <img src="https://img.shields.io/badge/Unity%20Hub-222C37?style=for-the-badge&logo=Unity&logoColor=white">
+	  <h3 style="color: #3B456C;">UI/UX Design</h3>
+      	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
       </div>
+	
 </div> <br>
 
 <div style="color: #3B456C;">
