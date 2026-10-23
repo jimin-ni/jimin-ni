@@ -38,7 +38,6 @@
       </div>
 </div> <br>
 
-<h1 style="border-bottom: 1px solid #d8dee4; color: #3954C2;">🤝 &nbsp;Let's Connect!</h1>
 <div style="color: #3B456C;">
 	<h3>I'm always interested in discussing:</h3>
 	<p>- 💻 HCI 🧠</p>
