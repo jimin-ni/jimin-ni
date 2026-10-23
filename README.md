@@ -1,15 +1,7 @@
 <div align= "center">
 	<img width="5760" height="1215" alt="github_bg" src="https://github.com/user-attachments/assets/ed4897ac-3624-49a2-9f00-a38c133d60aa" />
 </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> Hi👋, &nbsp;I'm Jimin Kim </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #272D46; line-height: 1.6;"> 
-      <p>A Developer and Designer majoring in <b>💫Computer Science</b> & <b>Visual Design💫</b>.</p>      
-      <p>I develop with a user-centric mindset and design with data-driven insights, integrating technical logic with visual aesthetics.</p>
-      <p><b>📍Vision:</b> Viewing the world through the dual lenses of technology and design to build engaging and impactful products.</p>
-      <p><b>📍Interests:</b> UX/UI Design · HCI · Web Development</p> 
-    </div> 
-</div> <br>
+
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jimin-ni&show_icons=true&title_color=4D5780&icon_color=8EA6D1&text_color=A0A0A0&bg_color=0D1117&hide_border=true" height="170" alt="Stats" />  
@@ -52,12 +44,4 @@
 	<p>- 💻 HCI 🧠</p>
 	<p>- 🌟 Better UX for Human</p>
 	<p>- ✨ Fascinating and Grounded UI</p>
-	<div style="text-align: left;"> 
-		<a href=mailto:jimin326ww@gmail.com> 
-			<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jimin326ww@gmail.com"> 
-		</a>
-		<a href=https://velog.io/@dung-dung/posts> 
-			<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dung-dung/posts"> 
-		</a>
-	</div>
 </div>
