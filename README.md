@@ -43,5 +43,5 @@
 	<h3>I'm always interested in discussing:</h3>
 	<p>- 💻 HCI 🧠</p>
 	<p>- 🌟 Better UX for Human</p>
-	<p>- ✨ Fascinating and Grounded UI</p>
+	<p>- ✨ AX & Agents </p>
 </div>
