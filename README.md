@@ -1,13 +1,6 @@
-<div align= "center">
-	<img width="5760" height="1215" alt="github_bg" src="https://github.com/user-attachments/assets/ed4897ac-3624-49a2-9f00-a38c133d60aa" />
-</div>
+<p>Design Minded Product Developer</p>
+<p>Hi, welcome!</p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jimin-ni&show_icons=true&title_color=4D5780&icon_color=8EA6D1&text_color=A0A0A0&bg_color=0D1117&hide_border=true" height="170" alt="Stats" />  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimin-ni&layout=compact&title_color=4D5780&icon_color=8EA6D1&text_color=A0A0A0&bg_color=0D1117&hide_border=true" height="170" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimin-ni&currStreakNum=8EA6D1&sideNums=A0A0A0&currStreakLabel=4D5780&sideLabels=A0A0A0&dates=707070&background=0D1117&stroke=0D1117&ring=4D5780&fire=8EA6D1&hide_border=true" height="170" alt="Streak" />
-</div> <br>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> 🛠️ Tech Stacks </h2> 
