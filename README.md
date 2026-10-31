@@ -1,5 +1,6 @@
-Kim Ji-min 김지민 <br> <br>
-***Design Minded Product Developer ☘️***
+김지민 · Jimin Kim <br> <br>
+***Major in Computer Engineering & Visual Design ☘️***
+
  <br> <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> 🛠️ Tech Stacks </h2> 
