@@ -1,7 +1,6 @@
-<p>Design Minded Product Developer</p>
-<p>Hi, welcome!</p>
-
-
+Kim Ji-min 김지민 <br> <br>
+***Design Minded Product Developer ☘️***
+ <br> <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #4D5780;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
